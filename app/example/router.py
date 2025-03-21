@@ -25,5 +25,5 @@ async def db_query(db=Depends(get_db)):
 
 @router.get("/http")
 async def http_query(client=Depends(async_client)):
-    resp = await client.get("http://localhost:9999/test")
+    resp = await client.get("http://localstack:4566/health")
     return {"ok": resp.status_code}
