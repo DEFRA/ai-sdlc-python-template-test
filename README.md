@@ -1,8 +1,8 @@
-# cdp-python-backend-template
+# ai-sdlc-python-template-test
 
 This is work-in-progress. See [To Do List](./TODO.md)
 
-- [cdp-python-backend-template](#cdp-python-backend-template)
+- [ai-sdlc-python-template-test](#ai-sdlc-python-template-test)
   - [Requirements](#requirements)
     - [Python](#python)
     - [Docker](#docker)
